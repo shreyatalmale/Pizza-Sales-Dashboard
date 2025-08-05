@@ -71,5 +71,5 @@ The **Pizza Profit Portal** dashboard is a data visualization solution designed 
 
 ---
 
-## 📂 Project Structure
+
 
